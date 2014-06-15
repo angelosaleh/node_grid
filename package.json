@@ -1,0 +1,16 @@
+{
+    "version": "0.0.1-1",
+    "dependencies": {
+        "express": "latest",
+        "jade": "latest",
+        "consolidate": "latest",
+        "socket.io": "latest"
+    },
+    "scripts": {
+        "start": "server.js"
+    },
+    "engines": {
+        "node": "latest"
+    },
+    "name": "curso-mejorandola-latinoamerica"
+}
